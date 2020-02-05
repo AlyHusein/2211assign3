@@ -1,0 +1,44 @@
+Script started on Wed 31 Oct 2018 06:34:11 PM EDT
+]0;ahusein3@cs2211:~/cs2211/asn3[?1034h[ahusein3@cs2211 asn3]$ pwd
+/gaul/s1/student/2018/ahusein3/cs2211/asn3
+]0;ahusein3@cs2211:~/cs2211/asn3[ahusein3@cs2211 asn3]$ date
+Wed Oct 31 18:34:15 EDT 2018
+]0;ahusein3@cs2211:~/cs2211/asn3[ahusein3@cs2211 asn3]$ who am i
+ahusein3 pts/8        2018-10-31 18:34
+]0;ahusein3@cs2211:~/cs2211/asn3[ahusein3@cs2211 asn3]$ ./integer
+What integer would you like displayed?:
+1
+   
+  |
+  |
+
+Would you like to continue? Y for Yes, N for No.
+Y
+What integer would you like displayed?:
+2
+ _ 
+ _|
+|_ 
+
+Would you like to continue? Y for Yes, N for No.
+Y
+What integer would you like displayed?:
+7
+ _ 
+  |
+  |
+
+Would you like to continue? Y for Yes, N for No.
+Y
+What integer would you like displayed?:
+5
+ _ 
+|_ 
+ _|
+
+Would you like to continue? Y for Yes, N for No.
+N
+]0;ahusein3@cs2211:~/cs2211/asn3[ahusein3@cs2211 asn3]$ exit
+exit
+
+Script done on Wed 31 Oct 2018 06:34:39 PM EDT

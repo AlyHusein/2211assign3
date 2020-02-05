@@ -1,0 +1,32 @@
+Script started on Wed 31 Oct 2018 06:32:57 PM EDT
+]0;ahusein3@cs2211:~/cs2211/asn3[?1034h[ahusein3@cs2211 asn3]$ pwd
+/gaul/s1/student/2018/ahusein3/cs2211/asn3
+]0;ahusein3@cs2211:~/cs2211/asn3[ahusein3@cs2211 asn3]$ date
+Wed Oct 31 18:33:04 EDT 2018
+]0;ahusein3@cs2211:~/cs2211/asn3[ahusein3@cs2211 asn3]$ who am i
+ahusein3 pts/10       2018-10-31 18:32
+]0;ahusein3@cs2211:~/cs2211/asn3[ahusein3@cs2211 asn3]$ ./evaluate
+Hi there, Please input a simple arithmetic expression: 4
+4.00
+Would you like to continue?
+Please enter Y for Yes, N for Quit
+Y
+Hi there, Please input a simple arithmetic expression: 4+5+6/90*23+4/54
+10.61
+Would you like to continue?
+Please enter Y for Yes, N for Quit
+Y
+Hi there, Please input a simple arithmetic expression: 4*5+5/78
+20.06
+Would you like to continue?
+Please enter Y for Yes, N for Quit
+Y
+Hi there, Please input a simple arithmetic expression: 3+4
+7.00
+Would you like to continue?
+Please enter Y for Yes, N for Quit
+N
+Thanks for using my program! Have a nice day.]0;ahusein3@cs2211:~/cs2211/asn3[ahusein3@cs2211 asn3]$ exit
+exit
+
+Script done on Wed 31 Oct 2018 06:33:57 PM EDT
